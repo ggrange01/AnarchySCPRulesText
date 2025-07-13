@@ -1,29 +1,29 @@
 // ==================
 // 🌐 GENERAL RULES
 // ==================
-* Use common sense and roleplay respectfully.
-* No RDM, metagaming, micspam, FailRP, or exploiting.
-* Do not impersonate staff or abuse faction mechanics.
-* Do not harass players, use slurs, or troll.
-* Do not kill or raid without proper RP reason.
-* Use /me and /roll for all unscripted RP (recontainment, stealth, injections, etc.).
-* Staff have final say. Do not argue during sits.
-* Inappropriate names, signs, sprays, or actions will result in punishment.
-* Scamming during RP transactions is not allowed.
-* You may not help CP unless you're a CP/government-class or hired by the Mayor.
-* Have fun, respect others, and stay in character.
+* ✅ Use common sense and roleplay respectfully.
+* 🚫 No RDM, metagaming, micspam, FailRP, or exploiting.
+* 🚫 Do not impersonate staff or abuse faction mechanics.
+* 🚫 Do not harass players, use slurs, or troll.
+* 🚫 Do not kill or raid without proper RP reason.
+* 🎭 Use /me and /roll for all unscripted RP (recontainment, stealth, injections, etc.).
+* 👮 Staff have final say. Do not argue during sits.
+* 🚫 Inappropriate names, signs, sprays, or actions will result in punishment.
+* 💰 Scamming during RP transactions is not allowed.
+* 🚓 You may not help CP unless you're a CP/government-class or hired by the Mayor.
+* 😄 Have fun, respect others, and stay in character.
 
 // ==========================
 // 🛠 BUILDING RULES
 // ==========================
-* Put up a sign that says "Building" while constructing.
-* Do not interfere with players who are building.
-* A base must allow keypad cracker/lockpick access to all areas.
-* Fading doors must be connected to visible keypads.
-* Fading doors must stay open for 5 seconds minimum.
-* Do not use black rooms, invisible props, or unfair headglitch bases.
-* No sky bases or placing props in unreachable rooftops.
-* No disorienting base effects (glow, black walls, etc.).
+* 🏗️ Put up a sign that says "Building" while constructing.
+* 🚷 Do not interfere with players who are building.
+* 🔑 A base must allow keypad cracker/lockpick access to all areas.
+* 🚪 Fading doors must be connected to visible keypads.
+* ⏳ Fading doors must stay open for 5 seconds minimum.
+* ❌ Do not use black rooms, invisible props, or unfair headglitch bases.
+* 🏙️ No sky bases or placing props in unreachable rooftops.
+* 🚫 No disorienting base effects (glow, black walls, etc.).
 
 // =======================
 // 🚨 SITE STATUS CODES
@@ -34,138 +34,138 @@
 🔴 CODE RED – Mass Containment Breach  
 ⚫ CODE BLACK – Evacuation / Nuke Protocol  
 
-> Site Command or Admins issue codes. Testing halts at Code Orange+. Lockdowns may occur.
+> 🛑 Site Command or Admins issue codes. Testing halts at Code Orange+. Lockdowns may occur.
 
 // ==========================
 // 🔫 RAID & NLR RULES
 // ==========================
-* Only ONE faction may raid at a time (Chaos, GOC, Serpent).
-* Code RED or BLACK allows all factions to act freely.
-* Raids must use /advert or /me RP unless done stealthily.
-* Must RP breaching actions: /me plants charge, /me hacks door, etc.
-* Raid NLR: 20 minutes. If you die, you cannot return until the timer is up.
-* General NLR: 5 minutes (applies to non-raid RP).
-* Faction raid cooldown: 15 minutes.
-* Defenders may return ONCE per raid; second death means observe NLR.
-* No spawn camping, prop blocking, or exploiting in raids.
+* ☝️ Only ONE faction may raid at a time (Chaos, GOC, Serpent).
+* 🚨 Code RED or BLACK allows all factions to act freely.
+* 📢 Raids must use /advert or /me RP unless done stealthily.
+* 🎭 Must RP breaching actions: /me plants charge, /me hacks door, etc.
+* ⏰ Raid NLR: 20 minutes. If you die, you cannot return until the timer is up.
+* ⏳ General NLR: 5 minutes (applies to non-raid RP).
+* 🔄 Faction raid cooldown: 15 minutes.
+* ↩️ Defenders may return ONCE per raid; second death means observe NLR.
+* 🚫 No spawn camping, prop blocking, or exploiting in raids.
 
 // ===============================
 // 🧠 RECONTAINMENT RP SYSTEM
 // ===============================
-* SCP recontainment must use /me and /roll system:
-  - 1–49 = fail
-  - 50–100 = success
+* 🎲 SCP recontainment must use /me and /roll system:
+  - ❌ 1–49 = fail
+  - ✅ 50–100 = success
 * Examples:  
   `/me fires tranquilizer at SCP-173` → `/roll`  
   `/me shackles SCP's arms with magnetic cuffs` → `/roll`
-* If successful, SCP must comply with RP.
-* MTF, Containment, or Researchers must assist in some procedures.
+* ✅ If successful, SCP must comply with RP.
+* 👮 MTF, Containment, or Researchers must assist in some procedures.
 
 > 📌 **SCP-096 Special Handling**
-- May only kill if a player **looks at his face**.
-- After tantrum ends, must sit still.
-- Can be recontained via:  
+- 👁️ May only kill if a player **looks at his face**.
+- 🛑 After tantrum ends, must sit still.
+- 🔁 Can be recontained via:  
   `/me fires tranquilizer at SCP-096` → `/roll`  
   `/me puts bag over SCP-096's head` → `/roll`
-- If successful, SCP-096 must comply.
-- Non-compliance or abusing 096 is punishable.
+- ✅ If successful, SCP-096 must comply.
+- ⚠️ Non-compliance or abusing 096 is punishable.
 
 // =========================
 // 📋 ROLE-SPECIFIC RULES
 // =========================
 
 // 🏘️ CITIZENS (citizen, medic, hobo, hitman, cook, gundealer)
-* Surface-only jobs. Facility entry = KOS or arrest.
-* Cannot assist SCPs, Chaos, Serpent’s Hand, or raid.
-* Hitmen must /advert and have valid contracts.
-* Medics and dealers must run a public or legal setup.
-* Hobos can build small surface shacks, not inside buildings.
+* 🌍 Surface-only jobs. Facility entry = KOS or arrest.
+* 🚫 Cannot assist SCPs, Chaos, Serpent’s Hand, or raid.
+* 🎯 Hitmen must /advert and have valid contracts.
+* 🏥 Medics and dealers must run a public or legal setup.
+* 🏚️ Hobos can build small surface shacks, not inside buildings.
 
 // 🚓 CIVIL PROTECTION / GANGS (cp, chief, gangster, mobboss)
-* CP must follow proper warrant and arrest procedure.
-* No RDM or abusing arrest tools.
-* Gangsters may mug and raid surface properties only.
-* CP and gangs may not interfere in SCP Foundation business.
+* ⚖️ CP must follow proper warrant and arrest procedure.
+* 🚫 No RDM or abusing arrest tools.
+* 💰 Gangsters may mug and raid surface properties only.
+* 🚫 CP and gangs may not interfere in SCP Foundation business.
 
 // 🧡 CLASS-D (classd, classdtrustee)
-* Follow RP unless a breach or rescue is underway.
-* May attempt escape during Code Orange+ or Chaos breach.
-* Cannot possess weapons without RP or help from Chaos.
-* Escaped Class-Ds may ally with Chaos, not GOC or Foundation.
+* 🔄 Follow RP unless a breach or rescue is underway.
+* 🚪 May attempt escape during Code Orange+ or Chaos breach.
+* 🚫 Cannot possess weapons without RP or help from Chaos.
+* 🧨 Escaped Class-Ds may ally with Chaos, not GOC or Foundation.
 
 // 🔵 SECURITY PERSONNEL (security, guards, chief)
-* Protect researchers, Class-D, and respond to low threats.
-* Cannot enter SCP chambers alone.
-* May KOS confirmed trespassers or armed intruders.
-* Must follow Site Command and not leave facility without reason.
+* 🛡️ Protect researchers, Class-D, and respond to low threats.
+* 🚷 Cannot enter SCP chambers alone.
+* 🔫 May KOS confirmed trespassers or armed intruders.
+* 👔 Must follow Site Command and not leave facility without reason.
 
 // ⚙️ CONTAINMENT TEAMS (containment, biohazard, specialist)
-* Specialize in recontainment RP.
-* Must use /me + /roll for all SCP interactions.
-* May terminate SCPs with admin or command approval if uncontainable.
-* Must stay on-site unless escorting SCPs or authorized.
+* 🔒 Specialize in recontainment RP.
+* 🎲 Must use /me + /roll for all SCP interactions.
+* 💀 May terminate SCPs with admin or command approval if uncontainable.
+* 🚫 Must stay on-site unless escorting SCPs or authorized.
 
 // 🧪 FOUNDATION STAFF (researcher, medical, engineers)
-* Testing requires MTF escort or Site Command approval.
-* Cannot breach or assist SCPs/Chaos.
-* Must use /me to perform experiments or procedures.
-* May not be armed unless designated security clearance.
+* 🧪 Testing requires MTF escort or Site Command approval.
+* 🚫 Cannot breach or assist SCPs/Chaos.
+* 🎭 Must use /me to perform experiments or procedures.
+* 🔫 May not be armed unless designated security clearance.
 
 // 🎖️ MTF UNITS (mtf, squadleader, medic, commander)
-* Primary breach and raid response team.
-* May terminate SCPs or raiders when recontainment fails.
-* Must operate under Site Command during Code Yellow+.
-* Must perform RP actions when capturing/transporting SCPs or Class-Ds.
+* 🚔 Primary breach and raid response team.
+* 💀 May terminate SCPs or raiders when recontainment fails.
+* 📋 Must operate under Site Command during Code Yellow+.
+* 🎭 Must perform RP actions when capturing/transporting SCPs or Class-Ds.
 
 // 👔 SITE COMMAND (sitedirector, manager, admin)
-* Control site status, research approval, and protocols.
-* May issue lockdowns and nukes with RP.
-* Cannot participate in combat unless directly attacked.
-* Must remain in-character and enforce internal discipline.
+* 🎛️ Control site status, research approval, and protocols.
+* 🚨 May issue lockdowns and nukes with RP.
+* 🚫 Cannot participate in combat unless directly attacked.
+* 🎭 Must remain in-character and enforce internal discipline.
 
 // ☠️ CHAOS INSURGENCY (chaos, leader, sniper, medic)
-* May raid to extract Class-Ds or breach SCPs.
-* Cannot ally with SCPs or raid with GOC/Serpent.
-* Must /advert breach or use RP stealth.
-* May only raid every 15 minutes (unless Code Red/Black).
+* 🔥 May raid to extract Class-Ds or breach SCPs.
+* 🚫 Cannot ally with SCPs or raid with GOC/Serpent.
+* 📢 Must /advert breach or use RP stealth.
+* ⏲️ May only raid every 15 minutes (unless Code Red/Black).
 
 // 🔷 GLOBAL OCCULT COALITION (goc, leader, sniper, medic)
-* Neutralizes dangerous SCPs — usually hostile to Foundation.
-* May not assist Chaos or Serpent’s Hand.
-* Must RP objectives like artifact recovery or neutralization.
-* May use lethal force in SCP breach zones.
+* 🛡️ Neutralizes dangerous SCPs — usually hostile to Foundation.
+* 🚫 May not assist Chaos or Serpent’s Hand.
+* 🎭 Must RP objectives like artifact recovery or neutralization.
+* 🔫 May use lethal force in SCP breach zones.
 
 // 🐍 SERPENT'S HAND (serpent, leader, medic, heavy)
-* Goal: free sapient SCPs peacefully or with force.
-* Cannot ally with Chaos or GOC.
-* Stealth RP encouraged: /me disables lights, /me opens cell, etc.
-* May escape after SCP liberation or stay to fight in Code Red.
+* 🐍 Goal: free sapient SCPs peacefully or with force.
+* 🚫 Cannot ally with Chaos or GOC.
+* 🤫 Stealth RP encouraged: /me disables lights, /me opens cell, etc.
+* 🏃 May escape after SCP liberation or stay to fight in Code Red.
 
 // 👾 SCPs (012, 049, 079, 096, 106, 173, 372, 457, 682, 8601, 895, 939, 966, 970)
-* You must follow your SCP’s lore behavior.
-* No random killing. Only engage as your SCP would.
-* Breaches must be RPed. Use /me to attack or escape when not scripted.
-* Cannot ally with Chaos or any faction unless lore supports it.
-* Must submit to /me + /roll recontainment if done correctly.
-* SCP-079 may assist other SCPs via hacking and electronics.
-* SCPs should not speak unless lore permits it (e.g., SCP-049).
+* 📜 You must follow your SCP’s lore behavior.
+* 🚫 No random killing. Only engage as your SCP would.
+* 🎭 Breaches must be RPed. Use /me to attack or escape when not scripted.
+* 🚫 Cannot ally with Chaos or any faction unless lore supports it.
+* 🎲 Must submit to /me + /roll recontainment if done correctly.
+* 💻 SCP-079 may assist other SCPs via hacking and electronics.
+* 🤐 SCPs should not speak unless lore permits it (e.g., SCP-049).
 
 // ========================
 // 💬 CHAT COMMANDS
 // ========================
 // Use these custom commands to talk privately within your faction/team. Messages are color-coded with a light blue [Foundation] or faction tag, followed by the player's name and message in white for clarity.
 
-* /f     — Foundation-wide chat (all Foundation personnel)
-* /r     — Research division chat (all Foundation personnel)
-* /m     — Mobile Task Force chat (all Foundation personnel)
-* /sec   — Security teams chat (all Foundation personnel)
-* /c     — Containment Security chat (all Foundation personnel)
-* /su    — Surface Security chat (all Foundation personnel)
-* /sc    — Site Command chat (all Foundation personnel)
-* /g     — Global Occult Coalition chat (GOC teams only)
-* /sh    — Serpent's Hand chat (Serpent's Hand teams only)
-* /s     — SCP communication channel (SCP role players only)
-* /med   — Medical division chat (all Foundation personnel)
-* /st    — Staff Team chat (server staff on duty)
-* /civil — Civil Protection chat (TEAM_POLICE, TEAM_CHIEF)
-* /cit   — Citizen chat (TEAM_CITIZEN, TEAM_HITMAN, TEAM_HOBO, TEAM_KINGHOBO, TEAM_GUN, TEAM_MEDIC, TEAM_COOK if enabled)
+* 💬 /f     — Foundation-wide chat (all Foundation personnel)
+* 💬 /r     — Research division chat (all Foundation personnel)
+* 💬 /m     — Mobile Task Force chat (all Foundation personnel)
+* 💬 /sec   — Security teams chat (all Foundation personnel)
+* 💬 /c     — Containment Security chat (all Foundation personnel)
+* 💬 /su    — Surface Security chat (all Foundation personnel)
+* 💬 /sc    — Site Command chat (all Foundation personnel)
+* 💬 /g     — Global Occult Coalition chat (GOC teams only)
+* 💬 /sh    — Serpent's Hand chat (Serpent's Hand teams only)
+* 💬 /s     — SCP communication channel (SCP role players only)
+* 💬 /med   — Medical division chat (all Foundation personnel)
+* 💬 /st    — Staff Team chat (server staff on duty)
+* 💬 /civil — Civil Protection chat (TEAM_POLICE, TEAM_CHIEF)
+* 💬 /cit   — Citizen chat (TEAM_CITIZEN, TEAM_HITMAN, TEAM_HOBO, TEAM_KINGHOBO, TEAM_GUN, TEAM_MEDIC, TEAM_COOK if enabled)
