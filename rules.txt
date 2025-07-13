@@ -36,7 +36,6 @@
 
 > Site Command or Admins issue codes. Testing halts at Code Orange+. Lockdowns may occur.
 
-
 // ==========================
 // 🔫 RAID & NLR RULES
 // ==========================
@@ -49,7 +48,6 @@
 * Faction raid cooldown: 15 minutes.
 * Defenders may return ONCE per raid; second death means observe NLR.
 * No spawn camping, prop blocking, or exploiting in raids.
-
 
 // ===============================
 // 🧠 RECONTAINMENT RP SYSTEM
@@ -68,10 +66,9 @@
 - After tantrum ends, must sit still.
 - Can be recontained via:  
   `/me fires tranquilizer at SCP-096` → `/roll`  
-  `/me puts bag over SCP-096's head` → `/roll`  
+  `/me puts bag over SCP-096's head` → `/roll`
 - If successful, SCP-096 must comply.
 - Non-compliance or abusing 096 is punishable.
-
 
 // =========================
 // 📋 ROLE-SPECIFIC RULES
@@ -144,7 +141,6 @@
 * Stealth RP encouraged: /me disables lights, /me opens cell, etc.
 * May escape after SCP liberation or stay to fight in Code Red.
 
-
 // 👾 SCPs (012, 049, 079, 096, 106, 173, 372, 457, 682, 8601, 895, 939, 966, 970)
 * You must follow your SCP’s lore behavior.
 * No random killing. Only engage as your SCP would.
@@ -153,3 +149,22 @@
 * Must submit to /me + /roll recontainment if done correctly.
 * SCP-079 may assist other SCPs via hacking and electronics.
 * SCPs should not speak unless lore permits it (e.g., SCP-049).
+
+// ========================
+// 💬 CHAT COMMANDS
+// ========================
+// Use these custom commands to talk privately within your faction/team. Messages are color-coded with a light blue [Foundation] or faction tag, followed by the player's name and message in white for clarity.
+
+// Available commands and their allowed users:
+* /f    — Foundation-wide chat (all Foundation personnel)
+* /r    — Research division chat (all Foundation personnel)
+* /m    — Mobile Task Force chat (all Foundation personnel)
+* /sec  — Security teams chat (all Foundation personnel)
+* /c    — Containment Security chat (all Foundation personnel)
+* /su   — Surface Security chat (all Foundation personnel)
+* /sc   — Site Command chat (all Foundation personnel)
+* /g    — Global Occult Coalition chat (GOC teams only)
+* /sh   — Serpent's Hand chat (Serpent's Hand teams only)
+* /s    — SCP communication channel (SCP role players only)
+* /med  — Medical division chat (all Foundation personnel)
+* /st   — Staff Team chat (server staff on duty)
